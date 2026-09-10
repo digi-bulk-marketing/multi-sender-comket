@@ -1,9 +1,14 @@
 # Multi Sender Comket
 
-- Rebranding ID: 67dea78ce55264a4fb30a4cf
-- User ID: 6606abae942be8d7c56c1be4
-- App name: Multi Sender Comket
-- Product name: Button Sender
+Multi Sender Comket by Comket Solutions Pvt Ltd.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/15a78cc2-4bd0-4aa2-9c4c-8c79ca3f3f6f.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/15a78cc2-4bd0-4aa2-9c4c-8c79ca3f3f6f.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/multi-sender-comket/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Multi Sender Comket** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/multi-sender-comket/releases/latest) and reinstall.
